@@ -1,0 +1,20 @@
+{
+  "name": "adbms",
+  "version": "1.0.0",
+  "description": "ADBMS Project 5",
+  "main": "server.js",
+  "repository": "it_vineh",
+  "author": "Deepak Yadav",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}
